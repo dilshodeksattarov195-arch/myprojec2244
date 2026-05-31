@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyspdate",
+        "uuid": 19293912,
+        "checksum": "znpb6k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
